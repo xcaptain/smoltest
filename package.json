@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@substrate/smoldot-light": "^0.6.33"
+    "@substrate/smoldot-light": "^0.6.33",
+    "ws": "^8.8.1"
   }
 }
